@@ -16,7 +16,8 @@ This project aims to predict **insurance premium amounts** based on customer att
 ---
 
 ## 📂 **Dataset Description**
-The dataset consists of **numerical** and **categorical** features influencing insurance premiums.
+The dataset [`train.csv`](https://www.kaggle.com/competitions/playground-series-s4e12/data) consists of **numerical** and **categorical** features influencing insurance premiums.
+
 
 ### **Numerical Features**
 | **Feature** | **Description** |
