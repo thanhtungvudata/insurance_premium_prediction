@@ -9,7 +9,7 @@ This project aims to predict **insurance premium amounts** based on customer att
 - **Tech Stack**: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, XGBoost, LightGBM, CatBoost.
 - **Approach**:
   - Exploratory Data Analysis (EDA)
-  - Feature Engineering & Encoding
+  - Feature Engineering
   - Model Training & Cross-Validation
   - Performance Evaluation & Feature Importance Analysis
 
