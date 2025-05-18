@@ -2,6 +2,8 @@
 
 This project aims to predict **insurance premium amounts** based on customer attributes using **machine learning models** such as **XGBoost, LightGBM, CatBoost, and Ridge Regression**. The dataset contains various **demographic, financial, and behavioral features** influencing premium pricing.
 
+[Blog post](https://medium.com/@tungvu_37498/building-a-machine-learning-model-to-estimate-insurance-premiums-1dac51f7ec63)
+
 ---
 
 ## 📌 **Project Overview**
